@@ -33,3 +33,4 @@ Clios-MacBook-Air:Desktop Clio$ perl smallestexons.pl example.bed
 60
 206
 62
+#the code tracked the smallest exons on each line rather than the whole file need to be corrected
